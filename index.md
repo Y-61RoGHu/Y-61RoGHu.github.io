@@ -12,3 +12,6 @@ Wie Hercule Poirot sagte:
 
 > Die grauen Zellen sind unbestechlich und offenbaren nichts als die Wahrheit
 
+
+<img src="https://upload.wikimedia.org/wikipedia/en/5/56/DavidSuchet_-_Poirot.png"/>
+
